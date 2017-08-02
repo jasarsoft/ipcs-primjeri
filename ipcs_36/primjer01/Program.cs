@@ -16,12 +16,32 @@ namespace primjer01
             names.Add("Nevena");
             names.Add("Ana");
 
-            Console.WriteLine("Broj elemenata nakon dodavanje {0}\n", names.Count);
+            Console.WriteLine("Broj elemenata nakon dodavanje {0}", names.Count);
 
             //prikazivanje cijele liste koriscenjem indeksera
             Console.WriteLine("Trenutni sadrzaj: ");
             for (int i = 0; i < names.Count; i++)
                 Console.Write(names[i] + " ");
+
+            Console.WriteLine("\n");
+            Console.WriteLine("Uklanjanje elemenata u toku...");
+            Console.WriteLine("Uklonjen elemenet Ana");
+            names.Remove("Ana");
+            Console.WriteLine("Trenutni broj elemenata: {0}", names.Count);
+
+            //iscrtavanje elemenata upotreba foreach petlje
+            Console.Write("Elementi: ");
+            foreach (string name in names) Console.Write(name + " ");
+            Console.WriteLine("\n");
+
+            //mjenjanje sadrzaja
+            Console.WriteLine("Mijenja se prvi element: ");
+            names[0] = "Milena";
+            Console.Write("Ponovo izlistavanje sadrzaja: ");
+            foreach (string name in names) Console.Write(name + " ");
+
+            Console.Read();
+
         }
     }
 }
