@@ -5,6 +5,7 @@ ipcs_36/primjer01/bin/
 ipcs_36/primjer02/bin/
 ipcs_36/primjer03/bin/
 ipcs_36/primjer04/bin/
+ipcs_36/primjer05/bin/
 
 ipcs_04/vjezba01/obj/
 ipcs_04/vjezba02/obj/
@@ -13,6 +14,7 @@ ipcs_36/primjer01/obj/
 ipcs_36/primjer02/obj/
 ipcs_36/primjer03/obj/
 ipcs_36/primjer04/obj/
+ipcs_36/primjer05/obj/
 
 *.exe
 *.suo
