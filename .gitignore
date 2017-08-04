@@ -14,6 +14,8 @@ ipcs_38/primjer02/bin/
 ipcs_38/primjer03/bin/
 ipcs_38/vjezba01/bin/
 ipcs_38/vjezb01/bin/
+ipcs_39/primjer01/bin/
+ipcs_39/primjer02/bin/
 
 ipcs_04/vjezba01/obj/
 ipcs_04/vjezba02/obj/
@@ -31,6 +33,8 @@ ipcs_38/primjer02/obj/
 ipcs_38/primjer03/obj/
 ipcs_38/vjezba01/obj/
 ipcs_38/vjezb01/obj/
+ipcs_39/primjer01/obj/
+ipcs_39/primjer02/obj/
 
 *.exe
 *.suo
