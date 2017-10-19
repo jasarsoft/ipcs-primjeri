@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPCS_26-P2", "IPCS_26-P2\IPCS_26-P2.csproj", "{9EB4DDA9-E520-4D2A-A8C2-8CC650A5FB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EB4DDA9-E520-4D2A-A8C2-8CC650A5FB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB4DDA9-E520-4D2A-A8C2-8CC650A5FB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB4DDA9-E520-4D2A-A8C2-8CC650A5FB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB4DDA9-E520-4D2A-A8C2-8CC650A5FB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
