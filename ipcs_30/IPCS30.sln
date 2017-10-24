@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba1", "IPCS_30-V1\Vjezba1.csproj", "{44854EB3-6018-477D-A775-4120B3B92078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba2", "Vjezba2\Vjezba2.csproj", "{01D1CBEA-7CC4-414B-B98C-1335519AFAF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44854EB3-6018-477D-A775-4120B3B92078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44854EB3-6018-477D-A775-4120B3B92078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44854EB3-6018-477D-A775-4120B3B92078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44854EB3-6018-477D-A775-4120B3B92078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D1CBEA-7CC4-414B-B98C-1335519AFAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D1CBEA-7CC4-414B-B98C-1335519AFAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D1CBEA-7CC4-414B-B98C-1335519AFAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D1CBEA-7CC4-414B-B98C-1335519AFAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
